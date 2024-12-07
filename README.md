@@ -1,12 +1,13 @@
 # 5 Weeks Java Bootcamp for Pure Beginners
-Below you can find what each chapter will cover:
-## 1. What is Java? (Theory)
+We are going to do this bootcamp in two phase. Below you can find what each chapter will cover:
+## Phase 1
+### 1. What is Java? (Theory)
 - Overview of Java
   - History of Java
   - Features of Java
   - Java Editions
 
-## 2. Setting Up the Development Environment (Practical)
+### 2. Setting Up the Development Environment (Practical)
 - Installing JDK
   - Downloading JDK
   - Installing JDK on different OS
@@ -14,7 +15,7 @@ Below you can find what each chapter will cover:
   - IntelliJ IDEA setup
   - Eclipse setup
 
-## 3. Variables and Data Types (Theory)
+### 3. Variables and Data Types (Theory)
 - Understanding Variables
   - Declaration and Initialization
   - Variable Scope
@@ -22,12 +23,12 @@ Below you can find what each chapter will cover:
   - Primitive Data Types
   - Reference Data Types
 
-## 4. Variables and Data Types Example (Practical)
+### 4. Variables and Data Types Example (Practical)
 - Practical Examples
   - Declaring Variables
   - Using Different Data Types
 
-## 5. Operators and Expressions (Theory)
+### 5. Operators and Expressions (Theory)
 - Arithmetic Operators
   - Addition, Subtraction, Multiplication, Division
 - Comparison Operators
@@ -35,23 +36,23 @@ Below you can find what each chapter will cover:
 - Logical Operators
   - AND, OR, NOT
 
-## 6. Operators and Expressions Example (Practical)
+### 6. Operators and Expressions Example (Practical)
 - Practical Examples
   - Using Arithmetic Operators
   - Using Comparison Operators
 
-## 7. Control Flow Statements (Theory)
+### 7. Control Flow Statements (Theory)
 - If-Else Statements
   - Syntax and Usage
 - Switch Statements
   - Syntax and Usage
 
-## 8. Control Flow Statements Example (Practical)
+### 8. Control Flow Statements Example (Practical)
 - Practical Examples
   - Implementing If-Else
   - Implementing Switch
 
-## 9. Loops (Theory)
+### 9. Loops (Theory)
 - For Loop
   - Syntax and Usage
 - While Loop
@@ -59,12 +60,14 @@ Below you can find what each chapter will cover:
 - Do-While Loop
   - Syntax and Usage
 
-## 10. Loops Example (Practical)
+### 10. Loops Example (Practical)
 - Practical Examples
   - Using For Loop
   - Using While Loop
+ 
+## Phase 2
 
-## 11. Introduction to OOP (Theory)
+### 11. Introduction to OOP (Theory)
 - OOP Concepts
   - Classes and Objects
   - Inheritance
@@ -72,7 +75,7 @@ Below you can find what each chapter will cover:
   - Encapsulation
   - Abstraction
 
-## 12. Classes and Objects (Theory)
+### 12. Classes and Objects (Theory)
 - Understanding Classes
   - Class Definition
   - Class Members
@@ -80,12 +83,12 @@ Below you can find what each chapter will cover:
   - Object Creation
   - Object Lifecycle
 
-## 13. Classes and Objects Example (Practical)
+### 13. Classes and Objects Example (Practical)
 - Practical Examples
   - Creating Classes
   - Creating Objects
 
-## 14. Methods and Constructors (Theory)
+### 14. Methods and Constructors (Theory)
 - Methods
   - Method Definition
   - Method Overloading
@@ -93,47 +96,47 @@ Below you can find what each chapter will cover:
   - Constructor Definition
   - Constructor Overloading
 
-## 15. Methods and Constructors Example (Practical)
+### 15. Methods and Constructors Example (Practical)
 - Practical Examples
   - Defining Methods
   - Using Constructors
 
-## 16. Inheritance (Theory)
+### 16. Inheritance (Theory)
 - Understanding Inheritance
   - Superclass and Subclass
   - Method Overriding
 
-## 17. Inheritance Example (Practical)
+### 17. Inheritance Example (Practical)
 - Practical Examples
   - Creating Subclasses
   - Using Inheritance
 
-## 18. Polymorphism (Theory)
+### 18. Polymorphism (Theory)
 - Understanding Polymorphism
   - Compile-time Polymorphism
   - Runtime Polymorphism
 
-## 19. Polymorphism Example (Practical)
+### 19. Polymorphism Example (Practical)
 - Practical Examples
   - Method Overloading
   - Method Overriding
 
-## 20. Encapsulation (Theory)
+### 20. Encapsulation (Theory)
 - Understanding Encapsulation
   - Access Modifiers
   - Getters and Setters
 
-## 21. Encapsulation Example (Practical)
+### 21. Encapsulation Example (Practical)
 - Practical Examples
   - Using Access Modifiers
   - Implementing Getters and Setters
 
-## 22. Abstraction (Theory)
+### 22. Abstraction (Theory)
 - Understanding Abstraction
   - Abstract Classes
   - Interfaces
 
-## 23. Abstraction Example (Practical)
+### 23. Abstraction Example (Practical)
 - Practical Examples
   - Implementing Abstract Classes
   - Using Interfaces
