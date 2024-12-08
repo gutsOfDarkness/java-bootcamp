@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Daily Java Concepts
+---
 
 <div class="content-list">
     <h1>{{ page.title }}</h1>
@@ -8,7 +9,7 @@ title: Daily Java Concepts
         {% assign sorted_posts = site.pages | where_exp: "item", "item.path contains 'src/day-'" | sort: 'path' %}
         {% for post in sorted_posts %}
             <li class="post-item">
-                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                <a href="{{ '/' | relative_url }}">{{ post.title }}</a>
             </li>
         {% endfor %}
     </ol>
