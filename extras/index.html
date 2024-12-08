@@ -1,0 +1,18 @@
+---
+layout: default
+title: Extra Java Concepts
+---
+
+<div class="content-list">
+    <h1>{{ page.title }}</h1>
+    <ol class="post-list">
+        {% assign sorted_extras = site.pages | where_exp: "item", "item.path contains 'extras/'" | sort: 'path' %}
+        {% for extra in sorted_extras %}
+            {% unless extra.path contains 'index.html' %}
+            <li class="post-item">
+                <a href="{{ site.baseurl }}{{ extra.url }}">{{ extra.title }}</a>
+            </li>
+            {% endunless %}
+        {% endfor %}
+    </ol>
+</div>
