@@ -5,7 +5,7 @@ next: /_posts/9_loops.md
 ---
 # Chapter 8: Control Flow Statements
 
-## Theoretical Overview (1000 words)
+## Theoretical Overview
 
 ### Introduction to Control Flow
 Control flow statements are fundamental building blocks in Java that allow programmers to make decisions and control the execution of code based on specific conditions. They provide the ability to alter the sequential flow of a program, enabling more dynamic and responsive software design.
