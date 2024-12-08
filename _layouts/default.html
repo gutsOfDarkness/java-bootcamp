@@ -10,8 +10,12 @@
     <header>
         <h1>{{ site.title }}</h1>
         <nav>
-            <a href="{{ page.previous.url }}">Previous</a>
-            <a href="{{ page.next.url }}">Next</a>
+            {% if page.previous %}
+                <a href="{{ page.previous }}">Previous</a>
+            {% endif %}
+            {% if page.next %}
+                <a href="{{ page.next }}">Next</a>
+            {% endif %}
             <button id="theme-toggle">🌙</button>
         </nav>
     </header>
