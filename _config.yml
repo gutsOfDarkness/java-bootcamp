@@ -1,2 +1,23 @@
-title: Java Bootcamp
-theme: minima
+title: Java Bootcamp 
+description: 5 Weeks Bootcamp on Java
+baseurl: "/java-bootcamp"
+url: "https://mohitmishra786.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "post"
+  - scope:
+      path: "src"
+    values:
+      layout: "post"
+  - scope:
+      path: "extras"
+    values:
+      layout: "post"
