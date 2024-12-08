@@ -5,7 +5,7 @@ next: /_posts/10_loops_example.md
 ---
 # Chapter 9: Loops
 
-## Theoretical Overview (1000 words)
+## Theoretical Overview
 
 ### Introduction to Loops
 Loops are essential control flow mechanisms in Java that allow programmers to repeatedly execute a block of code. They provide an efficient way to perform repetitive tasks without writing redundant code. Java offers three primary types of loops: for loop, while loop, and do-while loop.
