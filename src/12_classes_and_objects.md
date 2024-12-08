@@ -5,7 +5,7 @@ next: /_posts/13_classes_and_objects_example.md
 ---
 # Chapter 12: Classes and Objects
 
-## Theoretical Overview (1000 words)
+## Theoretical Overview
 
 ### Understanding Classes: The Blueprint of Objects
 A class in Java is fundamentally a blueprint or template that defines the structure and behavior of objects. Just as an architectural blueprint specifies every detail of a house before construction, a class defines the attributes (data) and methods (behaviors) that future objects will possess.
