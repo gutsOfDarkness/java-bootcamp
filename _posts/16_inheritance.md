@@ -1,3 +1,8 @@
+---
+title: "Inheritance"
+previous: /_posts/15_methods_and_constructors_example.md
+next: /_posts/17_inheritance_example.md
+---
 # Chapter 16: Inheritance in Java
 
 ## Understanding Inheritance

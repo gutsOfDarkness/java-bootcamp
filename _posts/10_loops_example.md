@@ -1,3 +1,8 @@
+---
+title: "Loops Example"
+previous: /_posts/9_loops.md
+next: /_posts/11_introduction_to_oop.md
+---
 # Chapter 10: Loops Example (Practical Implementation)
 
 ## Comprehensive Loops Demonstration

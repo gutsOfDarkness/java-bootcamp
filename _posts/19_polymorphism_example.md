@@ -1,3 +1,8 @@
+---
+title: "Polymorphism Example"
+previous: /_posts/18_polymorphism.md
+next: /_posts/20_encapsulation.md
+---
 # Chapter 19: Polymorphism Example (Practical)
 
 ## Practical Examples

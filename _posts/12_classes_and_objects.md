@@ -1,3 +1,8 @@
+---
+title: "Classes and Objects"
+previous: /_posts/11_introduction_to_oop.md
+next: /_posts/13_classes_and_objects_example.md
+---
 # Chapter 12: Classes and Objects
 
 ## Theoretical Overview (1000 words)

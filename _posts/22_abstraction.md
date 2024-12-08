@@ -1,3 +1,8 @@
+---
+title: "Abstraction"
+previous: /_posts/21_encapsulation_example.md
+next: /_posts/23_abstraction_example.md
+---
 # Chapter 22: Abstraction (Theory)
 
 Abstraction is one of the key principles of Object-Oriented Programming (OOP). It is the process of hiding the implementation details and showing only the functionality to the user. Abstraction helps in reducing complexity and allows the programmer to focus on what an object does instead of how it does it.

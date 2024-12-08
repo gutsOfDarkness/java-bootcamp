@@ -1,3 +1,8 @@
+---
+title: "Encapsulation Example"
+previous: /_posts/20_encapsulation.md
+next: /_posts/22_abstraction.md
+---
 # Chapter 21: Encapsulation Example (Practical)
 
 ## Practical Examples

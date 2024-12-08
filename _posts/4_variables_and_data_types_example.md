@@ -1,3 +1,8 @@
+---
+title: "Variables and Data Types Example"
+previous: /_posts/3_variables_and_data_types.md
+next: /_posts/5_operators_and_expressions.md
+---
 # Chapter 4: Variables and Data Types Example (Practical)
 
 ## Practical Application of Java Variables and Data Types

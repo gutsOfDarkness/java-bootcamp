@@ -1,3 +1,8 @@
+---
+title: "Setting Up the Development Environment"
+previous: /_posts/1_what_is_java.md
+next: /_posts/3_variables_and_data_types.md
+---
 # Chapter 2: Setting Up the Development Environment
 
 ## Understanding Java Development Tools

@@ -1,3 +1,8 @@
+---
+title: "Variables and Data Types"
+previous: /_posts/2_setting_up_the_development_environment.md
+next: /_posts/4_variables_and_data_types_example.md
+---
 # Chapter 3: Variables and Data Types
 
 ## Understanding Variables: The Building Blocks of Data Storage

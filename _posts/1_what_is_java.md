@@ -1,3 +1,9 @@
+---
+title: "What is Java?"
+previous: /index.md
+next: /_posts/2_setting_up_the_development_environment.md
+---
+# Introduction to Object-Oriented Programming
 # Chapter 1: What is Java?
 
 ## Introduction to Java

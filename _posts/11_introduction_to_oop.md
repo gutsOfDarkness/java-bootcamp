@@ -1,3 +1,8 @@
+---
+title: "Introduction to OOP"
+previous: /_posts/10_loops_example.md
+next: /_posts/12_classes_and_objects.md
+---
 # Chapter 11: Introduction to Object-Oriented Programming (OOP)
 
 ## Theoretical Overview (1000 words)

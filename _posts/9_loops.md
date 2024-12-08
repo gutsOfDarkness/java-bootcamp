@@ -1,3 +1,8 @@
+---
+title: "Loops"
+previous: /_posts/8_control_flow_statements_example.md
+next: /_posts/10_loops_example.md
+---
 # Chapter 9: Loops
 
 ## Theoretical Overview (1000 words)

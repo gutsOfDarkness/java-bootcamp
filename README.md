@@ -1,3 +1,7 @@
+---
+title: "Java Bootcamp"
+---
+
 # 5 Weeks Java Bootcamp for Pure Beginners
 We are going to do this bootcamp in two phase. Below you can find what each chapter will cover:
 ## Phase 1

@@ -1,3 +1,8 @@
+---
+title: "Polymorphism"
+previous: /_posts/17_inheritance_example.md
+next: /_posts/19_polymorphism_example.md
+---
 # Chapter 18: Polymorphism (Theory)
 
 Polymorphism is one of the core concepts of Object-Oriented Programming (OOP). It allows objects to be treated as instances of their parent class rather than their actual class. The two types of polymorphism in Java are compile-time (or static) polymorphism and runtime (or dynamic) polymorphism.

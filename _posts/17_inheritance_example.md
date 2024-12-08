@@ -1,3 +1,8 @@
+---
+title: "Inheritance Example"
+previous: /_posts/16_inheritance.md
+next: /_posts/18_polymorphism.md
+---
 # Chapter 17: Inheritance Example (Practical)
 
 ## Practical Examples

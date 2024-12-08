@@ -1,3 +1,8 @@
+---
+title: "Operators and Expressions"
+previous: /_posts/4_variables_and_data_types_example.md
+next: /_posts/6_operators_and_expressions_example.md
+---
 # Chapter 5: Operators and Expressions
 
 ## Understanding Operators: The Language of Computation

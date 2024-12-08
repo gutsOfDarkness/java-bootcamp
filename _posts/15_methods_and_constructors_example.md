@@ -1,3 +1,8 @@
+---
+title: "Methods and Constructors Example"
+previous: /_posts/14_methods_and_constructors.md
+next: /_posts/16_inheritance.md
+---
 # Chapter 15: Methods and Constructors in Java
 
 ## Understanding Methods

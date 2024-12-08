@@ -1,3 +1,8 @@
+---
+title: "Operators and Expressions Example"
+previous: /_posts/5_operators_and_expressions.md
+next: /_posts/7_control_flow_statements.md
+---
 # Chapter 6: Operators and Expressions Example (Practical)
 
 ## Practical Applications of Operators and Expressions

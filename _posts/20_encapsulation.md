@@ -1,3 +1,8 @@
+---
+title: "Encapsulation"
+previous: /_posts/19_polymorphism_example.md
+next: /_posts/21_encapsulation_example.md
+---
 # Chapter 20: Encapsulation (Theory)
 
 Encapsulation is one of the fundamental principles of Object-Oriented Programming (OOP). It is the mechanism of wrapping the data (variables) and code acting on the data (methods) together as a single unit. In encapsulation, the variables of a class are hidden from other classes and can be accessed only through the methods of their current class. This is also known as data hiding.

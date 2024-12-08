@@ -1,3 +1,8 @@
+---
+title: "Control Flow Statements"
+previous: /_posts/6_operators_and_expressions_example.md
+next: /_posts/8_control_flow_statements_example.md
+---
 # Chapter 7: Control Flow Statements
 
 ## Understanding Control Flow: Guiding Program Execution

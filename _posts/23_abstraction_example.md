@@ -1,3 +1,8 @@
+---
+title: "Abstraction Example"
+previous: /_posts/22_abstraction.md
+next: /path/to/next
+---
 # Chapter 23: Abstraction Example (Practical)
 
 ## Practical Examples

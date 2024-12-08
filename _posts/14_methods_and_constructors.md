@@ -1,3 +1,8 @@
+---
+title: "Methods and Constructors"
+previous: /_posts/13_classes_and_objects_example.md
+next: /_posts/15_methods_and_constructors_example.md
+---
 # Chapter 14: Methods and Constructors
 
 ## Theoretical Overview (1000 words)

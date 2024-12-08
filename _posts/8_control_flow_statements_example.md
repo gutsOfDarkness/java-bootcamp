@@ -1,3 +1,8 @@
+---
+title: "Control Flow Statements Example"
+previous: /_posts/7_control_flow_statements.md
+next: /_posts/9_loops.md
+---
 # Chapter 8: Control Flow Statements
 
 ## Theoretical Overview (1000 words)

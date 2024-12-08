@@ -1,3 +1,8 @@
+---
+title: "Classes and Objects Example"
+previous: /_posts/12_classes_and_objects.md
+next: /_posts/14_methods_and_constructors.md
+---
 # Chapter 13: Classes and Objects Example (Practical Implementation)
 
 ## Comprehensive Object-Oriented Programming Demonstration
